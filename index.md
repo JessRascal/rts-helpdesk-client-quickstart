@@ -8,7 +8,7 @@ It is recommended that you bookmark this site for future reference.
 
 ## Contents
 
-- [Accessing the Helpdesk]({{ site.github.url }}/client/general/accessing-helpdesk/)
+- [Accessing the Helpdesk](./client/general/accessing-helpdesk/)
 - [Creating a Support Ticket]({{ site.github.url }}/client/ticket/create/)
 - [Editing a Support Ticket]({{ site.github.url }}/client/ticket/edit/)
 - [Lifecycle of a Support Ticket]({{ site.github.url }}/client/ticket/lifecycle/)
