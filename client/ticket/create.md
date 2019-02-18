@@ -25,6 +25,9 @@ Complete the following to create a new support ticket:
 
 - Once you are happy with the details you have entered, select **Save & Close** to finish creating your ticket
 
+___
+When you create a new support ticket, it is given a status of **Reported** as the starting point of its [lifecycle](/client/ticket/lifecycle/).
+
 RTS will automatically be notified of the creation of your new ticket.
 
 You will be sent [email notifications](/client/general/notifications/) throughout the lifecycle of your ticket that alert you to any changes that have been made to it by RTS or another person in your company.

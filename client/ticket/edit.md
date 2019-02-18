@@ -11,4 +11,5 @@ Complete the following to edit a support ticket:
 - The edit form is displayed and you can update the details of your ticket as needed
 - Once you have finished editing your ticket, select **Save & Close** to save the changes
 
+___
 RTS will automatically be notified of any changes you make to your ticket.
