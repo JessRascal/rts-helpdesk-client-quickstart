@@ -8,9 +8,9 @@ It is recommended that you bookmark this site for future reference.
 
 ## Contents
 
-- [Accessing the Helpdesk]({{ site.baseurl }}client/general/accessing-helpdesk/)
-- [Creating a Support Ticket]({{ site.baseurl }}client/ticket/create/)
-- [Editing a Support Ticket]({{ site.baseurl }}client/ticket/edit/)
-- [Lifecycle of a Support Ticket]({{ site.baseurl }}client/ticket/lifecycle/)
-- [Email Notifications]({{ site.baseurl }}client/general/notifications/)
-- [How to Change Your Password]({{ site.baseurl }}client/general/change-password/)
+- [Accessing the Helpdesk]({{ site.github.url }}/client/general/accessing-helpdesk/)
+- [Creating a Support Ticket]({{ site.github.url }}/client/ticket/create/)
+- [Editing a Support Ticket]({{ site.github.url }}/client/ticket/edit/)
+- [Lifecycle of a Support Ticket]({{ site.github.url }}/client/ticket/lifecycle/)
+- [Email Notifications]({{ site.github.url }}/client/general/notifications/)
+- [How to Change Your Password]({{ site.github.url }}/client/general/change-password/)
