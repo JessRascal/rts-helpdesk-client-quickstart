@@ -4,7 +4,7 @@ Client quickstart guide for RTS's current helpdesk application.
 
 ## Running Locally
 
-`bundle exec jeyll server`
+`bundle exec jekyll serve`
 
 ## Markdown Style Guide
 
