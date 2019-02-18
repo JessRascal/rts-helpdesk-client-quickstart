@@ -4,6 +4,8 @@ This quickstart guide should get you up and running with creating and managing s
 
 All support issues should be reported by creating a ticket in the RTS helpdesk.
 
+It is recommended that you bookmark this site for future reference.
+
 ## Contents
 
 - [Accessing the Helpdesk](/client/general/accessing-helpdesk/)
