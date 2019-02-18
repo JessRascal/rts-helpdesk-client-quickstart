@@ -1,7 +1,3 @@
----
-permalink: /ticket/create
----
-
 # Creating a Support Ticket
 
 If your internal support department is unable to resolve an issue with one of the applications developed by RTS, then it needs to be raised in the form of a ticket on the [RTS helpdesk](https://helpdesk.rts-solutions.net){:target="_blank"}.
@@ -10,7 +6,7 @@ Complete the following to create a new support ticket:
 
 - Log into the [RTS helpdesk](https://helpdesk.rts-solutions.net){:target="_blank"}
 - On the main screen, select the **Add** button
-![Add Ticket Button](assets/images/ticket-add-button.png)
+![Add Ticket Button]({{ page.url | relative_url }}assets/images/ticket-add-button.png)
 - A form is displayed that needs to be completed as follows:
   - **Name**: Enter a descriptive name (e.g. Unable to Access the Dashboard)
   - **Project**: Select the relevant project/application for the issue (there may be only one option available)
