@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
 github: [metadata]
+baseurl: ""
 title: RTS Helpdesk
 description: Client Quickstart Guide
