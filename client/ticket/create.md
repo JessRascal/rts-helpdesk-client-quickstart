@@ -1,5 +1,5 @@
 ---
-permalink: /client/ticket/create
+permalink: /ticket/create
 ---
 
 # Creating a Support Ticket

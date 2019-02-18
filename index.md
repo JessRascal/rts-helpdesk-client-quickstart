@@ -9,7 +9,7 @@ It is recommended that you bookmark this site for future reference.
 ## Contents
 
 - [Accessing the Helpdesk]({{ page.url | relative_url }}client/general/accessing-helpdesk/)
-- [Creating a Support Ticket](client/ticket/create/)
+- [Creating a Support Ticket](/ticket/create/)
 - [Editing a Support Ticket]({{ page.url | relative_url }}client/ticket/edit/)
 - [Lifecycle of a Support Ticket]({{ page.url | relative_url }}client/ticket/lifecycle/)
 - [Email Notifications]({{ page.url | relative_url }}client/general/notifications/)
