@@ -6,7 +6,7 @@ Complete the following to create a new support ticket:
 
 - Log into the [RTS helpdesk](https://helpdesk.rts-solutions.net){:target="_blank"}
 - On the main screen, select the **Add** button
-![Add Ticket Button](/assets/images/ticket-add-button.png)
+![Add Ticket Button](assets/images/ticket-add-button.png)
 - A form is displayed that needs to be completed as follows:
   - **Name**: Enter a descriptive name (e.g. Unable to Access the Dashboard)
   - **Project**: Select the relevant project/application for the issue (there may be only one option available)
@@ -26,10 +26,10 @@ Complete the following to create a new support ticket:
 - Once you are happy with the details you have entered, select **Save & Close** to finish creating your ticket
 
 ___
-When you create a new support ticket, it is given a status of **Reported** as the starting point of its [lifecycle](/client/ticket/lifecycle/).
+When you create a new support ticket, it is given a status of **Reported** as the starting point of its [lifecycle](client/ticket/lifecycle/).
 
 RTS will automatically be notified of the creation of your new ticket.
 
-You will be sent [email notifications](/client/general/notifications/) throughout the lifecycle of your ticket that alert you to any changes that have been made to it by RTS or another person in your company.
+You will be sent [email notifications](client/general/notifications/) throughout the lifecycle of your ticket that alert you to any changes that have been made to it by RTS or another person in your company.
 
-You can [edit](/client/ticket/edit/) the details of your ticket at any point after it has been created.
+You can [edit](client/ticket/edit/) the details of your ticket at any point after it has been created.
