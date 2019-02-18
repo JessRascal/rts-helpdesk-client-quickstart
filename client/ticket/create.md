@@ -1,3 +1,7 @@
+---
+permalink: /client/ticket/create
+---
+
 # Creating a Support Ticket
 
 If your internal support department is unable to resolve an issue with one of the applications developed by RTS, then it needs to be raised in the form of a ticket on the [RTS helpdesk](https://helpdesk.rts-solutions.net){:target="_blank"}.
