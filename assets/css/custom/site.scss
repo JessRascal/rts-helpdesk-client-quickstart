@@ -1,3 +1,16 @@
 #header_wrap > #header-inner {
   padding-bottom: 0;
 }
+#header-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#project_title {
+  display: inline-block;
+}
+#header-logo {
+  box-shadow: none;
+  margin: 0;
+  padding-bottom: 0;
+}
