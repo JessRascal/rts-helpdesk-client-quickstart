@@ -1,0 +1,16 @@
+- title: Introduction
+  url: /
+- title: Tickets
+  sublinks:
+    - title: Creating
+      url: /client/ticket/create
+    - title: Editing
+      url: /client/ticket/edit
+    - title: Lifecycle
+      url: /client/ticket/lifecycle
+    - title: Notifications
+      url: /client/general/notifications
+- title: Account
+  sublinks:
+    - title: Change Password
+      url: /client/general/change-password
