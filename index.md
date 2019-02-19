@@ -14,4 +14,3 @@ It is recommended that you bookmark this site for future reference.
 - [Lifecycle of a Support Ticket](/client/ticket/lifecycle)
 - [Email Notifications](/client/general/notifications)
 - [How to Change Your Password](/client/general/change-password)
-- [Test Moved](/client/test)
