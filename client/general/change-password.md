@@ -1,6 +1,9 @@
 # Changing your Password
 
-You can easily change your **RTS helpdesk** password by completing the following steps:
+You can easily change your **RTS helpdesk** account password.
+
+___
+Complete the following to change your password:
 
 - Log into the [RTS helpdesk](https://helpdesk.rts-solutions.net){:target="_blank"}
 - In the top-right corner, select **Edit Profile**

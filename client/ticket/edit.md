@@ -2,6 +2,7 @@
 
 Once a ticket has been [created](create), it is possible to change the details that were originally entered (e.g. add additional information).
 
+___
 Complete the following to edit a support ticket:
 
 - Log into the [RTS helpdesk](https://helpdesk.rts-solutions.net){:target="_blank"}
@@ -12,4 +13,4 @@ Complete the following to edit a support ticket:
 - Once you have finished editing your ticket, select **Save & Close** to save the changes
 
 ___
-RTS will automatically be notified of any changes you make to your ticket.
+RTS will automatically be notified of any changes that are made to a ticket.

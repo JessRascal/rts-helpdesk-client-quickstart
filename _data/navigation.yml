@@ -10,6 +10,10 @@
       url: /client/ticket/lifecycle
     - title: Notifications
       url: /client/general/notifications
+    - title: Attachments
+      url: /client/ticket/attachment
+    - title: Discussions
+      url: /client/ticket/discussion
 - title: Account
   sublinks:
     - title: Change Password

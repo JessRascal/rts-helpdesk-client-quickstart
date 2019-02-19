@@ -6,11 +6,6 @@ All support issues that are unable to be resolved by your internal support depar
 
 It is recommended that you bookmark this site for future reference.
 
-## Contents
+## Document Navigation
 
-- [Accessing the Helpdesk](/client/general/accessing-helpdesk)
-- [Creating a Support Ticket](/client/ticket/create)
-- [Editing a Support Ticket](/client/ticket/edit)
-- [Lifecycle of a Support Ticket](/client/ticket/lifecycle)
-- [Email Notifications](/client/general/notifications)
-- [How to Change Your Password](/client/general/change-password)
+Use the menu at the top to navigate within this document.

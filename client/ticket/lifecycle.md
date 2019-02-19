@@ -1,6 +1,6 @@
 # Lifecycle of a Support Ticket
 
-Each support ticket goes through certain statuses from it being created to being closed.
+Each support ticket goes through certain statuses from when it is created, to when it is closed.
 
 The different statuses are detailed below.
 
@@ -24,7 +24,7 @@ When RTS have completed their investigation into the reported issue, they will g
   - **Major**: This is something that will need to be carried out outside of the support contract due to the required development workload and associated costs (e.g. developing a new spreadsheet import process).
 - **More Info. Required**: RTS have not been supplied with enough information to recreate/understand the issue so the person who created the ticket needs to [edit](edit) it to expand on the provided details.
 
-> **Note**: If the investigation results in RTS determining that the issue is a user issue, the diagnosis status will be skipped and it will be set straight to **Closed: User Issue**.
+> **Note**: If the investigation results in RTS determining that the issue is a user issue, the diagnosis result status will be skipped and it will be set straight to **Closed: User Issue**.
 
 ## Release Pending
 
