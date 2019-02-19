@@ -1,4 +1,10 @@
+# site
 theme: jekyll-theme-slate
+show_downloads: false
 github: [metadata]
 title: RTS Helpdesk
 description: Client Quickstart Guide
+
+# build
+sass:
+  sass_dir: assets/css
