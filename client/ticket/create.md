@@ -30,6 +30,6 @@ When you create a new support ticket, it is given a status of **Reported** as th
 
 RTS will automatically be notified of the creation of your new ticket.
 
-You will be sent [email notifications](../general/notifications/) throughout the lifecycle of your ticket that alert you to any changes that have been made to it by RTS or another person in your company.
+You will be sent [email notifications](../general/notifications) throughout the lifecycle of your ticket that alert you to any changes that have been made to it by RTS or another person in your company.
 
 You can [edit](edit) the details of your ticket at any point after it has been created.
