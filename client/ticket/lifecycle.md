@@ -22,7 +22,7 @@ When RTS have completed their investigation into the reported issue, they will g
 - **Enhancement Request**: RTS believe that the ticket is not for a bug, but for an enhancement request and they will provide an explanation why they believe this to be the case. Each ticket that is given this type of diagnosis result will also be categorised into one of the following:
   - **Minor**: This is something that could potentially be carried out under the support contract using the allocated support resources (e.g. moving the location of a button).
   - **Major**: This is something that will need to be carried out outside of the support contract due to the required development workload and associated costs (e.g. developing a new spreadsheet import process).
-- **More Info. Required**: RTS have not been supplied with enough information to recreate/understand the issue so the person who created the ticket needs to [edit](client/ticket/edit/) it to expand on the provided details.
+- **More Info. Required**: RTS have not been supplied with enough information to recreate/understand the issue so the person who created the ticket needs to [edit](/client/ticket/edit/) it to expand on the provided details.
 
 > **Note**: If the investigation results in RTS determining that the issue is a user issue, the diagnosis status will be skipped and it will be set straight to **Closed: User Issue**.
 
