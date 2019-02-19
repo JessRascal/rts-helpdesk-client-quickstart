@@ -1,3 +1,6 @@
+---
+nav-section: Account
+---
 # Changing your Password
 
 You can easily change your **RTS helpdesk** account password.

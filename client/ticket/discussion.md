@@ -1,3 +1,6 @@
+---
+nav-section: Ticket
+---
 # Ticket Discussions
 
 It is possible to have discussions regarding a ticket directly on the ticket itself.

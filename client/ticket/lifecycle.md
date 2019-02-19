@@ -1,3 +1,6 @@
+---
+nav-section: Ticket
+---
 # Lifecycle of a Support Ticket
 
 Each support ticket goes through certain statuses from when it is created, to when it is closed.

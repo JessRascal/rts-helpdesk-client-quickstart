@@ -1,3 +1,6 @@
+---
+nav-section: Account
+---
 # Accessing the RTS Helpdesk
 
 To access the [RTS helpdesk](https://helpdesk.rts-solutions.net){:target="_blank"}, you will need to have an account created for you by RTS.

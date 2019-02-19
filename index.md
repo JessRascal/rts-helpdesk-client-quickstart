@@ -1,3 +1,6 @@
+---
+nav-section: Home
+---
 # Introduction
 
 This quickstart guide should get you up and running with creating and managing support tickets in RTS's helpdesk application.

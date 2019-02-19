@@ -1,3 +1,6 @@
+---
+nav-section: Ticket
+---
 # Ticket Attachments
 
 It is possible to add attachments (screenshots, supporting documents, etc.) to the tickets you create.

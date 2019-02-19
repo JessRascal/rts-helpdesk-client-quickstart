@@ -1,3 +1,6 @@
+---
+nav-section: Ticket
+---
 # Email Notifications
 
 Once you have [created a ticket](../ticket/create), you will be sent an email notification every time a change is made to the details of that ticket.

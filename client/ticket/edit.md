@@ -1,3 +1,6 @@
+---
+nav-section: Ticket
+---
 # Editing a Support Ticket
 
 Once a ticket has been [created](create), it is possible to change the details that were originally entered (e.g. add additional information).

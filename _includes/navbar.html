@@ -8,8 +8,8 @@
   <ul class="navbar-nav mr-auto">
     {% assign links = site.data.navigation %}
     {% for link in links %}
-      {% assign class = nav-item %}
-      {% if page.url == link.url %}
+      {% assign class = null %}
+      {% if link.title contains page.nav-section %}
         {% assign class = 'active' %}
       {% endif %}
       {% if link.sublinks %}
@@ -26,7 +26,7 @@
           </div>
         </li>
       {% else %}
-        <li class="{{ class }}">
+        <li class="nav-item {{ class }}">
           <a class="nav-link pl-0" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
         </li>
       {% endif %}

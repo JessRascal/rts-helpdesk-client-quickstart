@@ -1,6 +1,7 @@
 - title: Home
   url: /
 - title: Tickets
+  url: /client/ticket
   sublinks:
     - title: Creating
       url: /client/ticket/create
@@ -15,6 +16,7 @@
     - title: Discussions
       url: /client/ticket/discussion
 - title: Account
+  url: /client/general
   sublinks:
     - title: Change Password
       url: /client/general/change-password
