@@ -1,6 +1,7 @@
 # site
 theme: jekyll-theme-slate
 show_downloads: false
+google_analytics: true
 github: [metadata]
 title: RTS Helpdesk
 description: Client Quickstart Guide
