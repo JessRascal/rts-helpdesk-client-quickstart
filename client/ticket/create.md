@@ -3,7 +3,7 @@ nav-section: Ticket
 ---
 # Creating a Support Ticket
 
-If your internal support department is unable to resolve an issue with one of the applications developed by RTS, then it needs to be raised in the form of a ticket on the [RTS helpdesk](https://helpdesk.rts-solutions.net){:target="_blank"}.
+If your internal support department is unable to resolve an issue you are facing with one of the applications developed by RTS, then it needs to be raised in the form of a support ticket on the [RTS helpdesk](https://helpdesk.rts-solutions.net){:target="_blank"}.
 
 ___
 Complete the following to create a new support ticket:
@@ -22,18 +22,18 @@ Complete the following to create a new support ticket:
     - **5 - Cosmetic**: Something that you think needs changing from a purely "look and feel" point of view (e.g. changing the colour of a button)
     - **Request**: A request for an enhancement or information
     - **Complaint**: You are not happy with how support is being provided by RTS
-  - **Description**: Enter a description of the issue you are having
-  - **Steps to Recreate**: If possible, enter the steps you took in the application that resulted in the issue you are facing
+  - **Description**: Enter a description of the issue you are facing
+  - **Steps to Recreate**: If possible, enter the steps you took in the application that resulted in the issue
 
 > **Note**: The more accurate the information you provide for the **description** and **steps to recreate**, the more likely RTS will be able to provide a solution in a timely manner.
 
 - Once you are happy with the details you have entered, select **Save & Close** to finish creating your ticket
 
 ___
-When you create a new support ticket, it is given a status of **Reported** as the starting point of its [lifecycle](lifecycle).
-
 RTS will automatically be notified of the creation of your new ticket.
 
-You will be sent [email notifications](../general/notifications) throughout the lifecycle of your ticket that alert you to any changes that have been made to it by RTS or another person in your company.
+You will be sent [email notifications](../general/notifications) throughout the lifecycle of your ticket which alert you to any changes that have been made to it by RTS or another person in your organisation.
+
+When you create a new support ticket, it is given a status of **Reported** as the starting point of its [lifecycle](lifecycle).
 
 You can [edit](edit) the details of your ticket at any point after it has been created.

@@ -11,13 +11,13 @@ ___
 Complete the following to add a comment to a support ticket's discussion:
 
 - Log into the [RTS helpdesk](https://helpdesk.rts-solutions.net){:target="_blank"}
-- On the main screen, select the ticket you want to add a comment to (it will change colour to show it's selected)
+- On the main screen, select the ticket you want to add a comment to (it will change colour to show it is selected)
 - Select the **Edit** button
 - Scroll down to the **Discussion** section and select **Add**
 ![Discussion Add Button](/assets/images/dicusssion-add-button.png)
 - Enter your comment in the field that is displayed
 ![Discussion Enter Comment](/assets/images/discussion-enter-comment.png)
-- Press `[Enter]` to complete entering the comment
+- Press `[Enter]` to complete your comment
 - Select **Save & Close** to save your comments
 
 ___

@@ -3,6 +3,6 @@ nav-section: Ticket
 ---
 # Email Notifications
 
-Once you have [created a ticket](../ticket/create), you will be sent an email notification every time a change is made to the details of that ticket.
+Once you have [created a ticket](../ticket/create), you will be sent an email notification every time it is updated (e.g. it is moved to the next stage of its [lifecycle](../ticket/lifecycle)).
 
-You need to pay attention to these notifciations when you receive them because the change to the ticket may have resulted in you needing to perform an action (e.g. you need to supply more information regarding the issue).
+You need to pay attention to these notifciations because the update to the ticket may have resulted in you needing to perform an action (e.g. you need to supply more information regarding the issue).

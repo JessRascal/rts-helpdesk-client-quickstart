@@ -3,13 +3,13 @@ nav-section: Ticket
 ---
 # Ticket Attachments
 
-It is possible to add attachments (screenshots, supporting documents, etc.) to the tickets you create.
+It is possible to add attachments (screenshots, supporting documentation, etc.) to the tickets you create.
 
 ___
 Complete the following to add an attachment to a support ticket:
 
 - Log into the [RTS helpdesk](https://helpdesk.rts-solutions.net){:target="_blank"}
-- On the main screen, select the ticket you want to add an attachment to (it will change colour to show it's selected)
+- On the main screen, select the ticket you want to add an attachment to (it will change colour to show it is selected)
 - Select **Add** in the **Attachments** section in the side-panel on the right
 ![Add Attachment Button](/assets/images/attachment-add-button.png)
 - In the screen that is displayed, select **Select Files** (or just drag a file on to the screen)

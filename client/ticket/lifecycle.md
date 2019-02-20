@@ -3,7 +3,7 @@ nav-section: Ticket
 ---
 # Lifecycle of a Support Ticket
 
-Each support ticket goes through certain statuses from when it is created, to when it is closed.
+Each support ticket goes through certain lifecycle statuses from the point of it being created, to the point it is closed.
 
 The different statuses are detailed below.
 
@@ -27,11 +27,11 @@ When RTS have completed their investigation into the reported issue, they will g
   - **Major**: This is something that will need to be carried out outside of the support contract due to the required development workload and associated costs (e.g. developing a new spreadsheet import process).
 - **More Info. Required**: RTS have not been supplied with enough information to recreate/understand the issue so the person who created the ticket needs to [edit](edit) it to expand on the provided details.
 
-> **Note**: If the investigation results in RTS determining that the issue is a user issue, the diagnosis result status will be skipped and it will be set straight to **Closed: User Issue**.
+> **Note**: If the investigation results in RTS determining that the issue is a user issue, the diagnosis result status will be bypassed and it will be set straight to **Closed: User Issue** (see below).
 
 ## Release Pending
 
-If the resolution of a support ticket is a change to the software, the ticket will be set to this status until the new release has been deployed.
+If the resolution of a support ticket requires a change to the software, the ticket will be set to this status until the release containing the bug fix/enhancement has been deployed.
 
 ## Closed
 
@@ -39,4 +39,4 @@ When a support ticket has reached the end of its lifecycle, it will be set to on
 
 - **Closed: Fix Released**: An update to the software was required to fix the reported issue. The release containing the fix has been deployed.
 - **Closed: Enhancement Released**: An update to the software was required to implement the required enhancement. The release containing the enhancement has been deployed.
-- **Closed: User Issue**: RTS were able to determine that the issue occurred due to the user trying to use the application in a way that was not intended. RTS will attempt to explain the correct process that should have been followed.
+- **Closed: User Issue**: RTS determined that the issue occurred due to the user trying to use the application in a way that was not intended. RTS will attempt to explain the correct process that should have been followed.
