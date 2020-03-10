@@ -20,7 +20,10 @@ Complete the following to create a new support ticket:
     - **3 - Medium**: An issue with a secondary piece of functionality (e.g. unable to view the history of a record)
     - **4 - Low**: A minor issue with any piece of functionality
     - **5 - Cosmetic**: Something that you think needs changing from a purely "look and feel" point of view (e.g. changing the colour of a button)
-    - **Request**: A request for an enhancement or information
+    - **Request: Critical**: A request for an enhancement or information that is a critical priority for your business
+    - **Request: High**: A request for an enhancement or information that is a high priority for your business
+    - **Request: Medium**: A request for an enhancement or information that is a medium priority for your business
+    - **Request: Low**: A request for an enhancement or information that is a low priority for your business
     - **Complaint**: You are not happy with how support is being provided by RTS
   - **Description**: Enter a description of the issue you are facing
   - **Steps to Recreate**: If possible, enter the steps you took in the application that resulted in the issue
